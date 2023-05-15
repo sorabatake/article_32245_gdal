@@ -1,0 +1,9 @@
+# cache
+src/.ipynb_checkpoints
+*.pyc
+__pycache__/
+
+# QGIS
+*.xml
+*.qgs
+

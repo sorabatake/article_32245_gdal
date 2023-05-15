@@ -1,0 +1,13 @@
+# notebook
+jupyterlab
+
+# basic
+numpy
+pandas
+matplotlib
+
+# geospacial
+tifffile
+rasterio
+geopandas
+shapely
