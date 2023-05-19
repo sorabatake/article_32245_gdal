@@ -1,4 +1,4 @@
-# 記事004 Github
+# 記事ID `32245` Github
 
 ![img](title.png)
 
